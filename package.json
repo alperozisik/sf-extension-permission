@@ -1,0 +1,27 @@
+{
+  "name": "sf-extension-permission",
+  "version": "1.0.0",
+  "description": "Smartface Extension for (Android) Permissions",
+  "main": "permission.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alperozisik/sf-extension-permission.git"
+  },
+  "keywords": [
+    "Smartface",
+    "Android",
+    "Permission"
+  ],
+  "author": "Alper Ozisik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alperozisik/sf-extension-permission/issues"
+  },
+  "homepage": "https://github.com/alperozisik/sf-extension-permission#readme",
+  "peerDependencies": {
+    "sf-extension-alert": "git+https://github.com/alperozisik/sf-extension-alert.git"
+  }
+}
