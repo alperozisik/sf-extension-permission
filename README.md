@@ -1,8 +1,9 @@
 # sf-extension-permission
 This extension is to manage Android permissions on Smartface more easly.
 ## Install
+```shell
 npm i -S https://github.com/alperozisik/sf-extension-permission.git
-
+```
 ## Require
 ```javascript
 const permission = require('sf-extension-permission');
